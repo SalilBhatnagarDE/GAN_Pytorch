@@ -6,7 +6,9 @@ In this repository, I will show you the implementation of a series of tasks rela
 ## 1. Implementation of GANs using standard fully connected neural network on MNIST
 Go through the NN_GAN.ipynb file and play with the implementaion of wonderful generative network.
 As the file is commented appropiately, you could easily follow through the implementation. 
+![Results after training](nngan.jpg)
 
 ## 2. Implementation of Conditional GANs using CNN based networks on Fashion MNIST
 Go through the Conditional_GAN.ipynb file and play with the implementaion of wonderful generative network.
 As the file is commented appropiately, you could easily follow through the implementation. 
+![Results after training](conditionalgan.jpg)
